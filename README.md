@@ -9,6 +9,8 @@ Tag bookmarks into categories
 Filter bookmarks by tag
 Users are restricted to manage only their own bookmarks
 
-As a internet user
-So that i can browse previously saved pages
+As an internet user
+So that I can browse previously saved pages
 I want to see a list of bookmarks
+
+![DOmain Model](./bookmarker_domain.jpg?raw=true "Bookmarker Domain")

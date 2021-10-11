@@ -6,6 +6,8 @@ class Bookmark
   end
 
   def self.all 
-    @@bookmarks
+    @@bookmarks.each do |bookmark|
+      bookmark
+    end
   end
 end

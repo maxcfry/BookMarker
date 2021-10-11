@@ -13,4 +13,4 @@ As an internet user
 So that I can browse previously saved pages
 I want to see a list of bookmarks
 
-![DOmain Model](./bookmarker_domain.jpg?raw=true "Bookmarker Domain")
+![DOmain Model](./Model.jpg?raw=true "Bookmarker Domain")
